@@ -1,0 +1,9 @@
+{
+  "name": "Java 21 Spring Boot",
+  "image": "mcr.microsoft.com/devcontainers/java:21",
+  "customizations": {
+    "vscode": {
+      "extensions": ["vscjava.vscode-java-pack"]
+    }
+  }
+}
